@@ -1,2 +1,2 @@
 # linear_regression_c
-create sampl linear regression in c using gradient decent
+create sample linear regression in c using gradient decent
